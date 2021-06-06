@@ -1,4 +1,5 @@
 [![Build Status](https://travis-ci.com/feiilla/travis-ci-tutorial-java.svg?branch=master)](https://travis-ci.com/feiilla/travis-ci-tutorial-java)
+[![codecov](https://codecov.io/gh/feiilla/travis-ci-tutorial-java/branch/master/graph/badge.svg?token=KX8NI6B9SR)](https://codecov.io/gh/feiilla/travis-ci-tutorial-java)
 # travis-ci-tutorial-java
 Just to learn how to use travis-ci in a java project!
 
