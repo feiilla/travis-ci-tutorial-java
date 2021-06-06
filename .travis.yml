@@ -24,7 +24,8 @@ after_success:
   file_glob: true 
   skip_cleanup: true 
   api_key: $GITHUB_TOKEN 
-  file: - .travis.yml 
+  file: 
+   - .travis.yml 
   on:
    tags: true 
    branch: tag 
